@@ -1,1 +1,2 @@
 # odin-etch-and-sketch
+The Odin Etch and Sketch project is to put into practice the lessons that were taught as it relates to DOM manipulation. This is a recreation of the old school sketch pad using HTML, CSS and JavaScript.
